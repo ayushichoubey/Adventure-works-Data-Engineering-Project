@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-ic",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "467a6333-8d45-4ad1-b5f3-fcd70def0feb",
+		"tenantId": "489bfcf6-d254-4a9e-adb5-abdf0ecdfb8a"
+	}
+}
